@@ -1,5 +1,7 @@
 # Intro to Git and Code Collaboration
 
+Slides: https://docs.google.com/presentation/d/1r_HpKOhmXmceVYapa1DUkRaaAXIAJEgwMMVCShTmjHQ
+
 ## Try it yourself
 Blockchain at Berkeley has a [git-demo](https://github.com/BerkeleyBitcoin/git-demo) repository. Where you can try it out yourself. Follow the instructions below to make a pull request to the demo repository.
 
@@ -12,7 +14,7 @@ Blockchain at Berkeley has a [git-demo](https://github.com/BerkeleyBitcoin/git-d
 7. Create a new branch: `git checkout -b branch-name`
 8. Make sure you are now in your new branch: `git branch`
 9. Edit a file or make a new one
-10. Add the changes: `git add randomfile.txt`
+10. Add the changes: `git add hog.py`
 11. Commit the changes: `git commit -m "Write a descriptive message here"`
 12. Push the changes: `git push origin branch-name`
 13. Go to https://github.com/BerkeleyBitcoin/git-demo
