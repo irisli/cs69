@@ -2,6 +2,8 @@
 
 Slides: https://docs.google.com/presentation/d/1r_HpKOhmXmceVYapa1DUkRaaAXIAJEgwMMVCShTmjHQ
 
+Handout: https://github.com/irisli/cs69/blob/master/git-handout.pdf
+
 ## Try it yourself
 Blockchain at Berkeley has a [git-demo](https://github.com/BerkeleyBitcoin/git-demo) repository. Where you can try it out yourself. Follow the instructions below to make a pull request to the demo repository.
 
